@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GitTry",
+    "\\GitTry\\GitTry"
   ],
+  "SelectedNode": "\\GitTry\\GitTry\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
