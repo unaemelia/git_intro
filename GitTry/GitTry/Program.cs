@@ -10,3 +10,6 @@ int b = 4;
 
 int add = a + b;
 int subtrakt = a - b;
+
+Console.WriteLine("Add " + add);
+Console.WriteLine("Subtrackt " + subtrakt);
